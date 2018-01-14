@@ -1,2 +1,2 @@
 # practise
-All proram practise
+All program practise
